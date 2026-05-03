@@ -199,14 +199,15 @@ Building this project taught me:
 🛠️ Adding Screenshots
 
 screenshots/
-├── upload.png          ← Home page with upload area
-├── analysing.png       ← Button in loading state
-├── dog_result.png      ← Dog prediction result
-├── cat_result.png      ← Cat prediction result
-├── bird_result.png     ← Bird prediction result
-├── airplane.png        ← Airplane prediction
-├── flower.png          ← Flower prediction
-└── chair.png           ← Chair prediction
+├── upload1.jpg          ← Home page with upload area
+|── upload2.jpg
+├── analysing.jpg       ← Button in loading state
+├── dog_result.jpg      ← Dog prediction result
+├── cat_result.jpg      ← Cat prediction result
+├── bird_result.jpg     ← Bird prediction result
+├── airplane.jpg        ← Airplane prediction
+├── flower.jpg          ← Flower prediction
+└── chair.jpg           ← Chair prediction
 
 
 📄 License
