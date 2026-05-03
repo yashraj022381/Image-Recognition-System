@@ -1,6 +1,22 @@
 # Image-Recognition-System
 An image classification model to identify objects in images.
 
+<div align="center">
+<!-- LOGO / BANNER -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=80&lines=👁️+VisionAI;Image+Recognition+System" alt="VisionAI"/>
+<br/>
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+<br/>
+🚀 An AI-powered web app that identifies objects in images with high accuracy
+<br/>
+ 🌐 Live Demo    •    📂 GitHub Repo    •    🐛 Report Bug
+    
+
+
 📸 Image Recognition System
 
 - A robust end-to-end computer vision application that leverages Deep Learning to identify objects in real-time. 
@@ -192,3 +208,7 @@ screenshots/
 ├── flower.png          ← Flower prediction
 └── chair.png           ← Chair prediction
 
+
+📄 License
+This project is licensed under the MIT License — see the LICENSE file for details.
+<br/>
