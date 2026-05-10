@@ -203,16 +203,30 @@ Building this project taught me:
 
 🛠️ Adding Screenshots
 
-screenshots/
-├── upload1.jpg          ← Home page with upload area
-|── upload2.jpg
-├── analysing.jpg       ← Button in loading state
-├── dog_result.jpg      ← Dog prediction result
-├── cat_result.jpg      ← Cat prediction result
-├── bird_result.jpg     ← Bird prediction result
-├── airplane.jpg        ← Airplane prediction
-├── flower.jpg          ← Flower prediction
-└── chair.jpg           ← Chair prediction
+  1. Home Page with upload area
+  ![Live Home Page](screenshots/1-upload.png)
+  ![Live Home Page](screenshots/2-upload.png)
+
+  2. Button in loading state
+  ![Live Analysing](screenshots/analysis.png)
+
+  3. Dog Prediction result
+  ![Live Dog_result](screenshots/dog_result.png)
+
+  4. Cat Prediction result
+  ![Live Cat_result](screenshots/cat_result.png)
+
+  5. Bird Prediction result
+  ![Live Bird_result](screenshots/bird_result.png)
+
+  6. Airplane Prediction
+  ![Live Airplane](screenshots/airplane.png)
+
+  7. Flower Prediction
+  ![Live Flower](screenshots/flower.png)
+
+  8. Chair Prediction
+  ![Live Chair](screenshots/chair.png)
 
 
 📄 License
