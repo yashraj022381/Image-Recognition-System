@@ -204,11 +204,11 @@ Building this project taught me:
 🛠️ Adding Screenshots
 
   1. Home Page with upload area
-  ![Live Home Page](screenshots/1-upload.png)
-  ![Live Home Page](screenshots/2-upload.png)
+  ![Live Home Page](screenshots/upload1.png)
+  ![Live Home Page](screenshots/upload2.png)
 
   2. Button in loading state
-  ![Live Analysing](screenshots/analysis.png)
+  ![Live Analysing](screenshots/analysing.png)
 
   3. Dog Prediction result
   ![Live Dog_result](screenshots/dog_result.png)
