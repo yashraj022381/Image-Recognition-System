@@ -1,7 +1,7 @@
 # Image-Recognition-System
 An image classification model to identify objects in images.
 
-<div align="center">
+    <div align="center">
 <!-- LOGO / BANNER -->
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=80&lines=👁️+VisionAI;Image+Recognition+System" alt="VisionAI"/>
 <br/>
@@ -35,8 +35,10 @@ You can access the live application here:[https://huggingface.co/spaces/yash9892
 - Web Interface: User-friendly UI built with Flask and HTML/CSS.
 
 - Flexible Dataset: The system supports custom item prediction by simply replacing the training data folder.
+  
 
 📂 Project Structure
+
 image-recognition-system/
 │
 ├── 📄 app.py                  ← Flask web server (manager)
@@ -67,7 +69,8 @@ image-recognition-system/
 
 
 ⚙️ Tech Stack
- <div align="center">
+
+    <div align="center">
   
 - Language: Python
 
@@ -80,6 +83,7 @@ image-recognition-system/
 - Frontend: HTML, CSS, JavaScript
 
 ⚙️ How to Use for Custom Predictions
+
 - One of the core strengths of this repo is its flexibility.
 - Although the default model recognizes cats, dogs, and birds, you can retrain it for any object:
   - Navigate to the dataset/ folder.
@@ -156,6 +160,7 @@ Go to http://127.0.0.1:5000/
 🎯 Model Performance
 
   Category                 Accuracy                Confidence
+  _____________________________________________________________
   🐦 Bird                  99.5%                   Excellent
   🐱 Cat                   99.6%                   Excellent
   🐕 Dog                   90.5%                   Very Good
