@@ -20,14 +20,42 @@ Show Image
 📸 Image Recognition System
 
 - A robust end-to-end computer vision application that leverages Deep Learning to identify objects in real-time. 
-- This project features a Flask-based web interface allowing users to upload images and receive instant classification         results.
+- This project features a Flask-based web interface allowing users to upload images and receive instant classification results.
 
 
 🚀 Live Demo
 You can access the live application here:[https://huggingface.co/spaces/yash9892/Image-Recognition-System]
 
+📸 Adding Screenshots
+
+  1. Home Page with upload area
+  ![Live Home Page](screenshots/upload1.png)
+  ![Live Home Page](screenshots/upload2.png)
+
+  2. Button in loading state
+  ![Live Analysing](screenshots/analysing.png)
+
+  3. Dog Prediction result
+  ![Live Dog_result](screenshots/dog_result.png)
+
+  4. Cat Prediction result
+  ![Live Cat_result](screenshots/cat_result.png)
+
+  5. Bird Prediction result
+  ![Live Bird_result](screenshots/bird_result.png)
+
+  6. Airplane Prediction
+  ![Live Airplane](screenshots/airplane.png)
+
+  7. Flower Prediction
+  ![Live Flower](screenshots/flower.png)
+
+  8. Chair Prediction
+  ![Live Chair](screenshots/chair.png)
+
 
 ✨ Features
+
 - Real-time Prediction: Upload any image and get immediate classification.
 
 - Customizable Training: While the current model is trained on Cats, Dogs, and Birds, the architecture is designed for easy      adaptation.
@@ -81,6 +109,7 @@ image-recognition-system/
 - Backend: Flask
 
 - Frontend: HTML, CSS, JavaScript
+
 
 ⚙️ How to Use for Custom Predictions
 
@@ -199,35 +228,6 @@ Building this project taught me:
  - ☁️ Cloud Deployment — Hosting on Hugging Face Spaces
 
 <br/>
-
-
-🛠️ Adding Screenshots
-
-  1. Home Page with upload area
-  ![Live Home Page](screenshots/upload1.png)
-  ![Live Home Page](screenshots/upload2.png)
-
-  2. Button in loading state
-  ![Live Analysing](screenshots/analysing.png)
-
-  3. Dog Prediction result
-  ![Live Dog_result](screenshots/dog_result.png)
-
-  4. Cat Prediction result
-  ![Live Cat_result](screenshots/cat_result.png)
-
-  5. Bird Prediction result
-  ![Live Bird_result](screenshots/bird_result.png)
-
-  6. Airplane Prediction
-  ![Live Airplane](screenshots/airplane.png)
-
-  7. Flower Prediction
-  ![Live Flower](screenshots/flower.png)
-
-  8. Chair Prediction
-  ![Live Chair](screenshots/chair.png)
-
 
 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
